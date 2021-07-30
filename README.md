@@ -1,5 +1,5 @@
--I\u0027m @e-fishel or əˈfɪʃəl <br>
--I\u0027m **very good at Karel**, I know **a bit of C++**, I know **decent JS** <br>
--I\u0027m currently **learning CSS** <br>
+-I'm @e-fishel or əˈfɪʃəl <br>
+-I'm **very good at Karel**, I know **a bit of C++**, I know **decent JS** <br>
+-I'm currently **learning CSS** <br>
 -I manage a **Discord bot** called **RandNon** <br>
--How to reach me… I dunno, email me and I\u0027ll tell you how to reach me
+-How to reach me… I dunno, send me an email and I'll tell you how to reach me
