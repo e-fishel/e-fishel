@@ -1,5 +1,6 @@
 -I'm @e-fishel or əˈfɪʃəl <br>
--I'm **very good at Karel**, I know **a bit of C++**, I know **decent JS** <br>
+-I'm **very good at Karel Pascal**, I know **a bit of C++**, I know **decent JS** <br>
 -I'm currently **learning CSS** <br>
 -I manage a **Discord bot** called **RandNon** <br>
+-I also like classy R&B music
 -How to reach me… I dunno, send me an email and I'll tell you how to reach me
